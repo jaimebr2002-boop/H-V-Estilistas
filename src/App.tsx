@@ -83,7 +83,7 @@ export default function App() {
             <a href="#resultados" className="text-sm font-medium text-primary/80 hover:text-accent-1 transition-colors">Resultados</a>
             <a href="#resenas" className="text-sm font-medium text-primary/80 hover:text-accent-1 transition-colors">Reseñas</a>
             <a href="#contacto" className="text-sm font-medium text-primary/80 hover:text-accent-1 transition-colors">Contacto</a>
-            <a href="tel:696126941" className="px-6 py-2.5 bg-primary text-white text-sm font-medium rounded-sm hover:bg-primary/90 transition-all duration-300 shadow-sm hover:shadow-md">
+            <a href="#reservar" className="px-6 py-2.5 bg-primary text-white text-sm font-medium rounded-sm hover:bg-primary/90 transition-all duration-300 shadow-sm hover:shadow-md">
               Reservar
             </a>
           </div>
@@ -142,7 +142,7 @@ export default function App() {
               Especialistas en color, balayage y mechas en Oviedo. Taty y su equipo llevan años transformando melenas — y nunca fallan.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-10">
-              <a href="tel:696126941" className="px-8 py-4 bg-accent-4 text-white text-sm font-medium tracking-wide rounded-sm hover:bg-accent-4/90 transition-all duration-300 w-full sm:w-auto shadow-md">
+              <a href="#reservar" className="px-8 py-4 bg-accent-4 text-white text-sm font-medium tracking-wide rounded-sm hover:bg-accent-4/90 transition-all duration-300 w-full sm:w-auto shadow-md">
                 Reserva tu cita
               </a>
               <a href="#servicios" className="px-8 py-4 bg-transparent border border-primary/20 text-primary text-sm font-medium tracking-wide rounded-sm hover:border-primary hover:bg-altbg transition-all duration-300 w-full sm:w-auto">
